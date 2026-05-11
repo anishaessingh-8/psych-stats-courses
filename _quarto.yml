@@ -1,21 +1,22 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "psych-stats-courses"
+  title: "PSY Statistics Courses"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: "PSY 371 — Intro Stats"
+        href: psy371/index.qmd
+      - text: "PSY 771 — ANOVA"
+        href: psy771/index.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: cosmo
     toc: true
+    embed-resources: false
 
 editor: visual
-
