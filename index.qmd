@@ -63,7 +63,7 @@ page-layout: full
     <div class="card-inner">
       <p class="card-num num-371">PSY 371</p>
       <p class="card-title">Statistical Methods in Psychology</p>
-      <p class="card-desc">Undergraduate introduction to statistics. Covers descriptives, correlation, and regression in R using real psychological data.</p>
+      <p class="card-desc">Undergraduate introduction to statistics. Covers descriptives, t-tests, correlation, and regression in R using real psychological data.</p>
       <div class="card-links">
         <a class="card-link" href="psy371/index.html">
           <svg class="icon-371" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
