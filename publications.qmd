@@ -1,0 +1,119 @@
+---
+title: ' '
+page-layout: full
+---
+
+```{=html}
+<div class="page-header">
+  <div class="page-header-inner">
+    <p class="page-header-eyebrow">LETR Lab</p>
+    <h1 class="page-header-title">Publications</h1>
+    <p class="page-header-subtitle">Journal articles, book chapters, and conference presentations from the lab. Lab members are <strong style="color: var(--green-300);">bolded</strong>.</p>
+  </div>
+</div>
+
+<div class="page-content">
+
+  <!-- Under Review -->
+  <div class="pub-year-group">
+    <div class="pub-year-header">Under Review</div>
+
+    <div class="pub-item">
+      <div class="pub-authors"><strong>Singh, A.</strong>, &amp; <strong>King, K.</strong></div>
+      <div class="pub-title">College students' reading and digital listening habits.</div>
+      <div class="pub-venue">Manuscript under review.</div>
+      <div class="pub-tags">
+        <span class="pub-tag pub-tag-in-press">Under Review</span>
+        <span class="pub-tag">Reading</span>
+        <span class="pub-tag">Digital Literacy</span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- 2025 -->
+  <div class="pub-year-group">
+    <div class="pub-year-header">2025</div>
+
+    <div class="pub-item">
+      <div class="pub-authors"><strong>Singh, A.</strong>, et al.</div>
+      <div class="pub-title">Bayesian network modeling of how college students construct argumentative essays using multiple online sources.</div>
+      <div class="pub-venue">Frontiers in Psychology.</div>
+      <div class="pub-tags">
+        <span class="pub-tag pub-tag-featured">Featured</span>
+        <span class="pub-tag">Argumentation</span>
+        <span class="pub-tag">Digital Literacy</span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- 2023 -->
+  <div class="pub-year-group">
+    <div class="pub-year-header">2023</div>
+
+    <div class="pub-item">
+      <div class="pub-authors">Alexander, P., et al. (incl. <strong>Singh, A.</strong>)</div>
+      <div class="pub-title">Undergraduate argumentation challenges within a "Learning How to Learn" course.</div>
+      <div class="pub-venue">Written Communication.</div>
+      <div class="pub-tags">
+        <span class="pub-tag">Argumentation</span>
+        <span class="pub-tag">Higher Education</span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- 2022 -->
+  <div class="pub-year-group">
+    <div class="pub-year-header">2022</div>
+
+    <div class="pub-item">
+      <div class="pub-authors"><strong>Singh, A.</strong>, &amp; Alexander, P.</div>
+      <div class="pub-title">Audiobooks, print and comprehension: What we know, what we don't, and what we need to find out.</div>
+      <div class="pub-venue">Educational Psychology Review.</div>
+      <div class="pub-tags">
+        <span class="pub-tag pub-tag-featured">Featured</span>
+        <span class="pub-tag">Reading</span>
+        <span class="pub-tag">Audiobooks</span>
+        <span class="pub-tag">Comprehension</span>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-authors"><strong>Singh, A.</strong>, et al.</div>
+      <div class="pub-title">How romanized orthography influences Hindi-English bilingual word recognition.</div>
+      <div class="pub-venue">Reading and Writing.</div>
+      <div class="pub-tags">
+        <span class="pub-tag">Multilingual</span>
+        <span class="pub-tag">Word Recognition</span>
+        <span class="pub-tag">Hindi-English</span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- 2021 -->
+  <div class="pub-year-group">
+    <div class="pub-year-header">2021</div>
+
+    <div class="pub-item">
+      <div class="pub-authors">Bharaj, P., &amp; <strong>Singh, A.</strong></div>
+      <div class="pub-title">Educational stakeholder experiences during COVID-19.</div>
+      <div class="pub-venue">Frontiers in Education.</div>
+      <div class="pub-tags">
+        <span class="pub-tag">COVID-19</span>
+        <span class="pub-tag">Education</span>
+      </div>
+    </div>
+
+  </div>
+
+  <hr class="section-divider">
+
+  <p class="section-label">Presentations</p>
+  <h2 class="section-heading">Conference Activity</h2>
+  <p class="section-subheading" style="margin-bottom: 1.5rem;">Lab members have presented at major venues including the American Educational Research Association (AERA), American Psychological Association (APA), and the Society for the Scientific Study of Reading (SSSR). Key topics include multilingual reading, audiobook comprehension, collaborative learning, and STEM career engagement.</p>
+
+</div>
+```

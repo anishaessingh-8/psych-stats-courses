@@ -3,20 +3,34 @@ project:
   output-dir: docs
 
 website:
-  title: "PSY Statistics Courses"
+  title: "LETR Lab"
+  description: "Learning & Educational Technology Research Lab — San Francisco State University"
   navbar:
+    background: light
+    foreground: dark
     left:
-      - href: index.qmd
-        text: Home
-      - text: "PSY 371 — Intro Stats"
-        href: psy371/index.qmd
-      - text: "PSY 771 — ANOVA"
-        href: psy771/index.qmd
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: team.qmd
+        text: Team
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - icon: envelope
+        href: "mailto:asingh56@sfsu.edu"
+        aria-label: Email
+  search: false
+  page-footer:
+    background: light
+    left: "© 2025 LETR Lab · Department of Psychology, San Francisco State University"
+    right: "[asingh56@sfsu.edu](mailto:asingh56@sfsu.edu)"
 
 format:
   html:
-    theme: cosmo
-    toc: true
+    theme: [cosmo, styles.css]
+    toc: false
     embed-resources: false
 
 editor: visual
