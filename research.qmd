@@ -1,0 +1,89 @@
+---
+title: ' '
+page-layout: full
+---
+
+```{=html}
+<div class="page-header">
+  <div class="page-header-inner">
+    <p class="page-header-eyebrow">LETR Lab</p>
+    <h1 class="page-header-title">Research</h1>
+    <p class="page-header-subtitle">We explore the processes underlying learning across contexts and for all learners — examining individual differences in cognition, language, and motivation.</p>
+  </div>
+</div>
+
+<div class="page-content">
+
+  <p class="section-label">Active Projects</p>
+  <h2 class="section-heading">Research Areas</h2>
+  <p class="section-subheading">Our work spans three interconnected areas, united by a commitment to understanding how people learn and how we can support better outcomes.</p>
+
+  <div class="research-grid" style="margin-bottom: 3rem;">
+
+    <div class="research-card">
+      <span class="research-card-icon">📖</span>
+      <div class="research-card-title">Reading Across Mediums</div>
+      <p class="research-card-desc">
+        As learners increasingly shift between print, digital screens, and audio formats, we ask: does medium matter? This project examines how different reading formats shape comprehension, engagement, and metacognition. Drawing on work in reading science and cognitive psychology, we investigate the conditions under which format-based differences emerge — and what they mean for educational practice. We have explored audiobook vs. print comprehension and are currently studying how college students navigate multiple digital sources.
+      </p>
+    </div>
+
+    <div class="research-card">
+      <span class="research-card-icon">🧠</span>
+      <div class="research-card-title">Knowledge, Beliefs &amp; Reasoning</div>
+      <p class="research-card-desc">
+        How and why do people revise — or resist revising — their beliefs about controversial scientific topics? This line of work investigates knowledge updating, argumentative writing, and the interplay between evidence, emotion, and prior beliefs in the context of socio-scientific issues. We use Bayesian network modeling and qualitative methods to understand the structure of students' reasoning, with implications for science education and scientific literacy.
+      </p>
+    </div>
+
+    <div class="research-card">
+      <span class="research-card-icon">🌱</span>
+      <div class="research-card-title">Mental Health in Academia</div>
+      <p class="research-card-desc">
+        Funded by an <strong>American Psychological Foundation (APF) Grant</strong>, this project investigates the mental health and well-being of early career academics. We examine systemic, relational, and individual factors that shape stress, belonging, and career sustainability in academic contexts. The aim is to develop an evidence base that can inform institutional support structures and mentorship practices.
+      </p>
+    </div>
+
+  </div>
+
+  <hr class="section-divider">
+
+  <p class="section-label">Methods</p>
+  <h2 class="section-heading">How We Work</h2>
+  <p class="section-subheading">We use a range of quantitative and qualitative methods depending on the question.</p>
+
+  <div class="research-grid">
+    <div class="research-card">
+      <span class="research-card-icon">📊</span>
+      <div class="research-card-title">Quantitative Methods</div>
+      <p class="research-card-desc">Survey methods, experimental designs, psychometric modeling, Bayesian network analysis, and statistical approaches appropriate to the research question.</p>
+    </div>
+    <div class="research-card">
+      <span class="research-card-icon">🔍</span>
+      <div class="research-card-title">Qualitative Methods</div>
+      <p class="research-card-desc">Think-aloud protocols, interviews, and discourse analysis to examine the processes underlying learning, argumentation, and belief revision.</p>
+    </div>
+    <div class="research-card">
+      <span class="research-card-icon">📝</span>
+      <div class="research-card-title">Mixed Methods</div>
+      <p class="research-card-desc">Many projects combine quantitative and qualitative approaches to capture both the breadth and depth of learning phenomena.</p>
+    </div>
+  </div>
+
+  <hr class="section-divider">
+
+  <div class="contact-block">
+    <div class="contact-block-inner">
+      <div>
+        <div class="contact-title">Interested in Collaborating?</div>
+        <p class="contact-desc">We welcome inquiries from researchers, practitioners, and students interested in our work.</p>
+        <div class="contact-detail">
+          <a href="mailto:asingh56@sfsu.edu">asingh56@sfsu.edu</a>
+        </div>
+      </div>
+      <a href="publications.html" class="btn-primary" style="white-space: nowrap;">View Publications →</a>
+    </div>
+  </div>
+
+</div>
+```

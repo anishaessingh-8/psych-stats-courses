@@ -1,0 +1,103 @@
+---
+title: ' '
+page-layout: full
+---
+
+```{=html}
+<div class="page-header">
+  <div class="page-header-inner">
+    <p class="page-header-eyebrow">LETR Lab</p>
+    <h1 class="page-header-title">Our Team</h1>
+    <p class="page-header-subtitle">We are a collaborative group of researchers and students working to understand learning across diverse contexts.</p>
+  </div>
+</div>
+
+<div class="page-content">
+
+  <p class="section-label">Principal Investigator</p>
+
+  <div class="pi-section">
+    <div class="pi-avatar">AS</div>
+    <div>
+      <div class="pi-name">Dr. Anisha Singh</div>
+      <div class="pi-role">Assistant Professor · Lab Director</div>
+      <p class="pi-bio">
+        Dr. Singh is an assistant professor in the Department of Psychology at San Francisco State University and director of the LETR Lab. Her research examines reading comprehension, digital literacy, multilingual processing, and argumentative writing — with a focus on how individual differences in cognition, language, and motivation shape learning outcomes.
+      </p>
+      <p class="pi-edu">
+        <strong>Ph.D.</strong> Educational Psychology, University of Maryland (Certificate in Measurement, Statistics &amp; Evaluation)<br>
+        <strong>M.A.</strong> International Education, George Washington University<br>
+        <strong>M.A.</strong> English Literature, University of Delhi
+      </p>
+      <div class="pi-links">
+        <a href="mailto:asingh56@sfsu.edu" class="tag-link">✉ asingh56@sfsu.edu</a>
+        <a href="teaching.html" class="tag-link">📚 Teaching</a>
+      </div>
+    </div>
+  </div>
+
+  <hr class="section-divider" style="margin-top: 0.5rem;">
+
+  <p class="section-label">Graduate Students</p>
+  <h2 class="section-heading" style="margin-bottom: 1.5rem;">Current Members</h2>
+
+  <div class="team-grid">
+    <div class="team-card">
+      <div class="team-avatar">KK</div>
+      <div class="team-name">Kayla King</div>
+      <div class="team-role">Graduate Student</div>
+      <p class="team-bio">Program: Social Personality and Affective Science. Research interests include reading habits and digital listening behaviors among college students.</p>
+    </div>
+    <div class="team-card">
+      <div class="team-avatar">DM</div>
+      <div class="team-name">Dylan (Sophia) Mattioda</div>
+      <div class="team-role">Graduate Student</div>
+      <p class="team-bio">Program: Social Personality and Affective Science.</p>
+    </div>
+  </div>
+
+  <hr class="section-divider">
+
+  <p class="section-label">External Collaborators</p>
+  <h2 class="section-heading" style="margin-bottom: 1.5rem;">Collaborators</h2>
+
+  <div class="collab-grid">
+    <div class="collab-card">
+      <div class="collab-name">Dr. Patricia Alexander</div>
+      <div class="collab-affil">Distinguished Professor · University of Maryland</div>
+    </div>
+    <div class="collab-card">
+      <div class="collab-name">Dr. Pavneet Bharaj</div>
+      <div class="collab-affil">Assistant Professor · CSU Long Beach</div>
+    </div>
+    <div class="collab-card">
+      <div class="collab-name">Dr. Yuting Sun</div>
+      <div class="collab-affil">Assistant Professor · University of North Florida</div>
+    </div>
+    <div class="collab-card">
+      <div class="collab-name">Dr. Hongyang Zhao</div>
+      <div class="collab-affil">Assistant Professor · University of Illinois Urbana-Champaign</div>
+    </div>
+    <div class="collab-card">
+      <div class="collab-name">Dr. Bahar Javadizadeh</div>
+      <div class="collab-affil">Assistant Professor · San Francisco State University</div>
+    </div>
+  </div>
+
+  <hr class="section-divider">
+
+  <div class="contact-block">
+    <div class="contact-block-inner">
+      <div>
+        <div class="contact-title">Join the Lab</div>
+        <p class="contact-desc">Interested in joining the LETR Lab as a graduate student or research collaborator? Reach out to Dr. Singh to discuss opportunities.</p>
+        <div class="contact-detail">
+          <a href="mailto:asingh56@sfsu.edu">asingh56@sfsu.edu</a> &nbsp;·&nbsp; ESP Building, Room 319
+        </div>
+      </div>
+      <a href="mailto:asingh56@sfsu.edu" class="btn-primary" style="white-space: nowrap;">Get in Touch →</a>
+    </div>
+  </div>
+
+</div>
+```

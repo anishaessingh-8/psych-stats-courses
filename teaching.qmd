@@ -1,0 +1,59 @@
+---
+title: ' '
+page-layout: full
+---
+
+```{=html}
+<div class="page-header">
+  <div class="page-header-inner">
+    <p class="page-header-eyebrow">LETR Lab · San Francisco State University</p>
+    <h1 class="page-header-title">Teaching</h1>
+    <p class="page-header-subtitle">R tutorials, annotated code, and datasets for undergraduate and graduate psychology statistics.</p>
+  </div>
+</div>
+
+<div class="page-content">
+
+  <p class="section-label">Courses</p>
+  <h2 class="section-heading">Course Materials</h2>
+  <p class="section-subheading">These pages contain open course materials — R tutorials, datasets, and example code — for students enrolled in statistics courses at SFSU.</p>
+
+  <div class="courses-grid-v2">
+
+    <div class="course-card-v2">
+      <div class="accent-green"></div>
+      <div class="course-num course-num-green">PSY 371</div>
+      <div class="course-title-v2">Statistical Methods in Psychology</div>
+      <div class="course-meta">Undergraduate · San Francisco State University</div>
+      <p class="course-desc-v2">Introduction to statistics for psychology students. Covers descriptive statistics, t-tests, correlation, and regression using real psychological data in R.</p>
+      <a class="btn-text" href="psy371/index.html">Go to PSY 371 materials →</a>
+    </div>
+
+    <div class="course-card-v2">
+      <div class="accent-purple"></div>
+      <div class="course-num course-num-purple">PSY 771</div>
+      <div class="course-title-v2">Analysis of Variance</div>
+      <div class="course-meta">Graduate · San Francisco State University</div>
+      <p class="course-desc-v2">Graduate-level analysis of variance. Covers one-way, factorial, repeated measures, and mixed ANOVA designs with a focus on implementation in R.</p>
+      <a class="btn-text" href="psy771/index.html">Go to PSY 771 materials →</a>
+    </div>
+
+  </div>
+
+  <hr class="section-divider">
+
+  <div class="contact-block">
+    <div class="contact-block-inner">
+      <div>
+        <div class="contact-title">Questions?</div>
+        <p class="contact-desc">Reach out with any questions about course materials or to discuss teaching collaborations.</p>
+        <div class="contact-detail">
+          <a href="mailto:asingh56@sfsu.edu">asingh56@sfsu.edu</a> &nbsp;·&nbsp; ESP Building, Room 319
+        </div>
+      </div>
+      <a href="mailto:asingh56@sfsu.edu" class="btn-primary" style="white-space: nowrap;">Contact →</a>
+    </div>
+  </div>
+
+</div>
+```
