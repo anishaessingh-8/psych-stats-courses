@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "psy771/index.html",
+    "href": "psy771/index.html",
+    "title": "PSY 771 — ANOVA and Experimental Design",
+    "section": "",
+    "text": "Welcome to PSY 771. This site contains R tutorials and materials for the graduate statistics course."
+  },
+  {
+    "objectID": "psy771/index.html#materials",
+    "href": "psy771/index.html#materials",
+    "title": "PSY 771 — ANOVA and Experimental Design",
+    "section": "Materials",
+    "text": "Materials\nComing soon."
+  },
+  {
+    "objectID": "psy371/index.html",
+    "href": "psy371/index.html",
+    "title": "PSY 371 — Psychological Statistics",
+    "section": "",
+    "text": "Welcome to PSY 371. This site contains R tutorials, datasets, and code for the course."
+  },
+  {
+    "objectID": "psy371/index.html#materials",
+    "href": "psy371/index.html#materials",
+    "title": "PSY 371 — Psychological Statistics",
+    "section": "Materials",
+    "text": "Materials\n\nR Basics — Descriptives, Correlation & Regression\nDownload dataset: psych_study_data.csv"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "LETR Lab\n    Publications\n    Journal articles, book chapters, and conference presentations from the lab. Lab members are bolded.\n  \n\n\n\n\n  \n  \n    Under Review\n\n    \n      Singh, A., & King, K.\n      College students' reading and digital listening habits.\n      Manuscript under review.\n      \n        Under Review\n        Reading\n        Digital Literacy\n      \n    \n\n  \n\n  \n  \n    2025\n\n    \n      Singh, A., et al.\n      Bayesian network modeling of how college students construct argumentative essays using multiple online sources.\n      Frontiers in Psychology.\n      \n        Featured\n        Argumentation\n        Digital Literacy\n      \n    \n\n  \n\n  \n  \n    2023\n\n    \n      Alexander, P., et al. (incl. Singh, A.)\n      Undergraduate argumentation challenges within a \"Learning How to Learn\" course.\n      Written Communication.\n      \n        Argumentation\n        Higher Education\n      \n    \n\n  \n\n  \n  \n    2022\n\n    \n      Singh, A., & Alexander, P.\n      Audiobooks, print and comprehension: What we know, what we don't, and what we need to find out.\n      Educational Psychology Review.\n      \n        Featured\n        Reading\n        Audiobooks\n        Comprehension\n      \n    \n\n    \n      Singh, A., et al.\n      How romanized orthography influences Hindi-English bilingual word recognition.\n      Reading and Writing.\n      \n        Multilingual\n        Word Recognition\n        Hindi-English\n      \n    \n\n  \n\n  \n  \n    2021\n\n    \n      Bharaj, P., & Singh, A.\n      Educational stakeholder experiences during COVID-19.\n      Frontiers in Education.\n      \n        COVID-19\n        Education\n      \n    \n\n  \n\n  \n\n  Presentations\n  Conference Activity\n  Lab members have presented at major venues including the American Educational Research Association (AERA), American Psychological Association (APA), and the Society for the Scientific Study of Reading (SSSR). Key topics include multilingual reading, audiobook comprehension, collaborative learning, and STEM career engagement."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Our Team",
+    "section": "",
+    "text": "LETR Lab\n    Our Team\n    We are a collaborative group of researchers and students working to understand learning across diverse contexts.\n  \n\n\n\n\n  Principal Investigator\n\n  \n    AS\n    \n      Dr. Anisha Singh\n      Assistant Professor · Lab Director\n      \n        Dr. Singh is an assistant professor in the Department of Psychology at San Francisco State University and director of the LETR Lab. Her research examines reading comprehension, digital literacy, multilingual processing, and argumentative writing — with a focus on how individual differences in cognition, language, and motivation shape learning outcomes.\n      \n      \n        Ph.D. Educational Psychology, University of Maryland (Certificate in Measurement, Statistics & Evaluation)\n        M.A. International Education, George Washington University\n        M.A. English Literature, University of Delhi\n      \n      \n        ✉ asingh56@sfsu.edu\n        📚 Teaching\n      \n    \n  \n\n  \n\n  Graduate Students\n  Current Members\n\n  \n    \n      KK\n      Kayla King\n      Graduate Student\n      Program: Social Personality and Affective Science. Research interests include reading habits and digital listening behaviors among college students.\n    \n    \n      DM\n      Dylan (Sophia) Mattioda\n      Graduate Student\n      Program: Social Personality and Affective Science.\n    \n  \n\n  \n\n  External Collaborators\n  Collaborators\n\n  \n    \n      Dr. Patricia Alexander\n      Distinguished Professor · University of Maryland\n    \n    \n      Dr. Pavneet Bharaj\n      Assistant Professor · CSU Long Beach\n    \n    \n      Dr. Yuting Sun\n      Assistant Professor · University of North Florida\n    \n    \n      Dr. Hongyang Zhao\n      Assistant Professor · University of Illinois Urbana-Champaign\n    \n    \n      Dr. Bahar Javadizadeh\n      Assistant Professor · San Francisco State University\n    \n  \n\n  \n\n  \n    \n      \n        Join the Lab\n        Interested in joining the LETR Lab as a graduate student or research collaborator? Reach out to Dr. Singh to discuss opportunities.\n        \n          asingh56@sfsu.edu  ·  ESP Building, Room 319\n        \n      \n      Get in Touch →"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "LETR Lab · San Francisco State University\n    Teaching\n    R tutorials, annotated code, and datasets for undergraduate and graduate psychology statistics.\n  \n\n\n\n\n  Courses\n  Course Materials\n  These pages contain open course materials — R tutorials, datasets, and example code — for students enrolled in statistics courses at SFSU.\n\n  \n\n    \n      \n      PSY 371\n      Statistical Methods in Psychology\n      Undergraduate · San Francisco State University\n      Introduction to statistics for psychology students. Covers descriptive statistics, t-tests, correlation, and regression using real psychological data in R.\n      Go to PSY 371 materials →\n    \n\n    \n      \n      PSY 771\n      Analysis of Variance\n      Graduate · San Francisco State University\n      Graduate-level analysis of variance. Covers one-way, factorial, repeated measures, and mixed ANOVA designs with a focus on implementation in R.\n      Go to PSY 771 materials →\n    \n\n  \n\n  \n\n  \n    \n      \n        Questions?\n        Reach out with any questions about course materials or to discuss teaching collaborations.\n        \n          asingh56@sfsu.edu  ·  ESP Building, Room 319\n        \n      \n      Contact →"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "LETR Lab\n    Research\n    We explore the processes underlying learning across contexts and for all learners — examining individual differences in cognition, language, and motivation.\n  \n\n\n\n\n  Active Projects\n  Research Areas\n  Our work spans three interconnected areas, united by a commitment to understanding how people learn and how we can support better outcomes.\n\n  \n\n    \n      📖\n      Reading Across Mediums\n      \n        As learners increasingly shift between print, digital screens, and audio formats, we ask: does medium matter? This project examines how different reading formats shape comprehension, engagement, and metacognition. Drawing on work in reading science and cognitive psychology, we investigate the conditions under which format-based differences emerge — and what they mean for educational practice. We have explored audiobook vs. print comprehension and are currently studying how college students navigate multiple digital sources.\n      \n    \n\n    \n      🧠\n      Knowledge, Beliefs & Reasoning\n      \n        How and why do people revise — or resist revising — their beliefs about controversial scientific topics? This line of work investigates knowledge updating, argumentative writing, and the interplay between evidence, emotion, and prior beliefs in the context of socio-scientific issues. We use Bayesian network modeling and qualitative methods to understand the structure of students' reasoning, with implications for science education and scientific literacy.\n      \n    \n\n    \n      🌱\n      Mental Health in Academia\n      \n        Funded by an American Psychological Foundation (APF) Grant, this project investigates the mental health and well-being of early career academics. We examine systemic, relational, and individual factors that shape stress, belonging, and career sustainability in academic contexts. The aim is to develop an evidence base that can inform institutional support structures and mentorship practices.\n      \n    \n\n  \n\n  \n\n  Methods\n  How We Work\n  We use a range of quantitative and qualitative methods depending on the question.\n\n  \n    \n      📊\n      Quantitative Methods\n      Survey methods, experimental designs, psychometric modeling, Bayesian network analysis, and statistical approaches appropriate to the research question.\n    \n    \n      🔍\n      Qualitative Methods\n      Think-aloud protocols, interviews, and discourse analysis to examine the processes underlying learning, argumentation, and belief revision.\n    \n    \n      📝\n      Mixed Methods\n      Many projects combine quantitative and qualitative approaches to capture both the breadth and depth of learning phenomena.\n    \n  \n\n  \n\n  \n    \n      \n        Interested in Collaborating?\n        We welcome inquiries from researchers, practitioners, and students interested in our work.\n        \n          asingh56@sfsu.edu\n        \n      \n      View Publications →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning & EducationalTechnology Research",
+    "section": "",
+    "text": "San Francisco State University · Department of Psychology\n    Learning & EducationalTechnology Research\n    We investigate how people learn — across formats, languages, and contexts — to understand and improve educational outcomes for all learners.\n    \n      Our Research →\n      Meet the Team\n    \n  \n\n\n\n\n  \n    \n      10+\n      Publications\n    \n    \n      3\n      Research Areas\n    \n    \n      5\n      Collaborators\n    \n    \n      SFSU\n      Since 2021\n    \n  \n\n  Research\n  What We Study\n  The LETR Lab explores the cognitive, linguistic, and motivational processes that underlie learning across diverse contexts and populations.\n\n  \n    \n      📖\n      Reading Across Mediums\n      How does reading format — print, digital screen, or audio — shape comprehension? We examine the cognitive and metacognitive processes behind format-based differences in learning.\n    \n    \n      🧠\n      Knowledge, Beliefs & Reasoning\n      Why do people hold — and sometimes update — beliefs about controversial scientific topics? We study knowledge revision, argumentation, and how emotions interact with evidence evaluation.\n    \n    \n      🌱\n      Mental Health in Academia\n      Funded by an APF Grant, this project investigates the mental health and well-being of early career academics, examining systemic and individual factors that shape their experiences.\n    \n  \n\n  Explore all research →\n\n  \n\n  Recent Work\n  Selected Publications\n\n  \n    \n      2025\n      \n        Bayesian network modeling of how college students construct argumentative essays using multiple online sources\n        Frontiers in Psychology · Singh et al.\n      \n    \n    \n      2023\n      \n        Undergraduate argumentation challenges within a \"Learning How to Learn\" course\n        Written Communication · Alexander et al.\n      \n    \n    \n      2022\n      \n        Audiobooks, print and comprehension: What we know, what we don't, and what we need to find out\n        Educational Psychology Review · Singh & Alexander\n      \n    \n    \n      2022\n      \n        How romanized orthography influences Hindi-English bilingual word recognition\n        Reading and Writing · Singh et al.\n      \n    \n  \n\n  View all publications →\n\n  \n\n  \n    \n      \n        Get in Touch\n        We are located in the Ethnic Studies and Psychology Building at San Francisco State University. Prospective students and collaborators are welcome to reach out.\n        \n          asingh56@sfsu.edu  ·  ESP Building, Room 319, 1600 Holloway Ave, San Francisco, CA 94132\n        \n      \n      Meet the Team →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "psy371/r_basics_psych.html",
+    "href": "psy371/r_basics_psych.html",
+    "title": "R Basics for Psychological Research",
+    "section": "",
+    "text": "In this session we will work through a complete data analysis workflow using a simulated dataset from psychological research. The dataset contains the following variables for 150 students:\n\n\n\n\n\n\n\n\nVariable\nDescription\nScale\n\n\n\n\nstudent_id\nParticipant identifier\nID only\n\n\nstudy_hours\nAverage daily study hours\n0-12 hours\n\n\nsleep_hours\nAverage nightly sleep\n3-11 hours\n\n\nanxiety_score\nTrait anxiety (adapted from STAI)\n20-80 (higher = more anxiety)\n\n\nexam_score\nFinal exam performance\n0-100\n\n\n\nResearch question: Do study hours, sleep hours, and anxiety predict exam performance?"
+  },
+  {
+    "objectID": "psy371/r_basics_psych.html#overview",
+    "href": "psy371/r_basics_psych.html#overview",
+    "title": "R Basics for Psychological Research",
+    "section": "",
+    "text": "In this session we will work through a complete data analysis workflow using a simulated dataset from psychological research. The dataset contains the following variables for 150 students:\n\n\n\n\n\n\n\n\nVariable\nDescription\nScale\n\n\n\n\nstudent_id\nParticipant identifier\nID only\n\n\nstudy_hours\nAverage daily study hours\n0-12 hours\n\n\nsleep_hours\nAverage nightly sleep\n3-11 hours\n\n\nanxiety_score\nTrait anxiety (adapted from STAI)\n20-80 (higher = more anxiety)\n\n\nexam_score\nFinal exam performance\n0-100\n\n\n\nResearch question: Do study hours, sleep hours, and anxiety predict exam performance?"
+  },
+  {
+    "objectID": "psy371/r_basics_psych.html#step-1-load-libraries",
+    "href": "psy371/r_basics_psych.html#step-1-load-libraries",
+    "title": "R Basics for Psychological Research",
+    "section": "Step 1: Load Libraries",
+    "text": "Step 1: Load Libraries\nUse install.packages(\"psych\") once if you have not installed it yet. Then load it each session:\n\nlibrary(psych)   # for the describe() function\n\nA library (package) is a collection of pre-written functions that extend base R. Load with library() at the top of every script."
+  },
+  {
+    "objectID": "psy371/r_basics_psych.html#step-2-import-the-dataset",
+    "href": "psy371/r_basics_psych.html#step-2-import-the-dataset",
+    "title": "R Basics for Psychological Research",
+    "section": "Step 2: Import the Dataset",
+    "text": "Step 2: Import the Dataset\n\ndf &lt;- read.csv(\"psych_study_data.csv\")\nhead(df)     # first 6 rows\n\n  student_id study_hours sleep_hours anxiety_score exam_score\n1          1         5.7         6.8            49       66.4\n2          2         5.7         5.2            53       54.3\n3          3         5.6         7.1            52       69.1\n4          4         7.3         7.1            43       62.5\n5          5         6.5         8.6            50       66.4\n6          6         7.1         5.3            47       69.0\n\ndim(df)      # rows x columns\n\n[1] 150   5\n\nnames(df)    # variable names\n\n[1] \"student_id\"    \"study_hours\"   \"sleep_hours\"   \"anxiety_score\"\n[5] \"exam_score\"   \n\n\nAlways inspect your data after importing to confirm row counts and variable names look correct."
+  },
+  {
+    "objectID": "psy371/r_basics_psych.html#step-3-descriptive-statistics",
+    "href": "psy371/r_basics_psych.html#step-3-descriptive-statistics",
+    "title": "R Basics for Psychological Research",
+    "section": "Step 3: Descriptive Statistics",
+    "text": "Step 3: Descriptive Statistics\n\n3a. Mean and Standard Deviation (base R)\n\nmean(df$exam_score)\n\n[1] 63.14267\n\nmean(df$study_hours)\n\n[1] 6.115333\n\nmean(df$sleep_hours)\n\n[1] 6.925333\n\nmean(df$anxiety_score)\n\n[1] 50.58667\n\n\n\nsd(df$exam_score)\n\n[1] 12.09133\n\nsd(df$study_hours)\n\n[1] 1.904595\n\nsd(df$sleep_hours)\n\n[1] 1.252926\n\nsd(df$anxiety_score)\n\n[1] 10.21197\n\n\nA larger SD indicates more variability around the mean; a smaller SD means scores cluster tightly.\n\n\n3b. Rich Descriptives with psych::describe()\n\n# Drop column 1 (student_id) before describing\ndescribe(df[, -1])\n\n              vars   n  mean    sd median trimmed   mad  min  max range  skew\nstudy_hours      1 150  6.12  1.90   6.00    6.13  1.93  0.8 10.6   9.8 -0.08\nsleep_hours      2 150  6.93  1.25   7.00    6.91  1.11  3.9  9.8   5.9  0.04\nanxiety_score    3 150 50.59 10.21  51.00   50.62  8.90 27.0 80.0  53.0  0.07\nexam_score       4 150 63.14 12.09  62.35   63.29 11.93 33.8 97.0  63.2 -0.02\n              kurtosis   se\nstudy_hours      -0.20 0.16\nsleep_hours      -0.17 0.10\nanxiety_score     0.24 0.83\nexam_score       -0.25 0.99\n\n\nKey columns: n (sample size), mean, sd, median, min, max, skew (0 = symmetric), kurtosis (0 = normal), se (standard error of the mean)."
+  },
+  {
+    "objectID": "psy371/r_basics_psych.html#step-4-correlation-with-cor.test",
+    "href": "psy371/r_basics_psych.html#step-4-correlation-with-cor.test",
+    "title": "R Basics for Psychological Research",
+    "section": "Step 4: Correlation with cor.test()",
+    "text": "Step 4: Correlation with cor.test()\ncor.test() returns Pearson r and tests whether it differs significantly from zero.\n\nStudy Hours and Exam Score\n\ncor.test(df$study_hours, df$exam_score)\n\n\n    Pearson's product-moment correlation\n\ndata:  df$study_hours and df$exam_score\nt = 10.014, df = 148, p-value &lt; 2.2e-16\nalternative hypothesis: true correlation is not equal to 0\n95 percent confidence interval:\n 0.5291560 0.7222259\nsample estimates:\n     cor \n0.635523 \n\n\n\n\nAnxiety Score and Exam Score\n\ncor.test(df$anxiety_score, df$exam_score)\n\n\n    Pearson's product-moment correlation\n\ndata:  df$anxiety_score and df$exam_score\nt = -3.9774, df = 148, p-value = 0.0001087\nalternative hypothesis: true correlation is not equal to 0\n95 percent confidence interval:\n -0.4486713 -0.1583807\nsample estimates:\n       cor \n-0.3107545 \n\n\n\n\nSleep Hours and Exam Score\n\ncor.test(df$sleep_hours, df$exam_score)\n\n\n    Pearson's product-moment correlation\n\ndata:  df$sleep_hours and df$exam_score\nt = 3.2379, df = 148, p-value = 0.001486\nalternative hypothesis: true correlation is not equal to 0\n95 percent confidence interval:\n 0.1011083 0.4009372\nsample estimates:\n      cor \n0.2572022 \n\n\nReading the output: - cor: Pearson r (range -1 to +1) - t: test statistic - df: degrees of freedom (n - 2) - p-value: probability of this result if the true r = 0 - 95 percent confidence interval: plausible range for the true r\nEffect size convention (Cohen, 1988): |r| &lt; .10 = negligible; .10-.29 = small; .30-.49 = moderate; &gt;= .50 = large."
+  },
+  {
+    "objectID": "psy371/r_basics_psych.html#step-5-multiple-regression",
+    "href": "psy371/r_basics_psych.html#step-5-multiple-regression",
+    "title": "R Basics for Psychological Research",
+    "section": "Step 5: Multiple Regression",
+    "text": "Step 5: Multiple Regression\nMultiple regression estimates how several predictors jointly explain an outcome and the unique contribution of each predictor controlling for the others.\n\nmodel &lt;- lm(exam_score ~ study_hours + sleep_hours + anxiety_score, data = df)\nsummary(model)\n\n\nCall:\nlm(formula = exam_score ~ study_hours + sleep_hours + anxiety_score, \n    data = df)\n\nResiduals:\n    Min      1Q  Median      3Q     Max \n-17.801  -5.827  -0.101   5.199  17.417 \n\nCoefficients:\n              Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept)   36.66864    5.35935   6.842 2.00e-10 ***\nstudy_hours    4.19120    0.33653  12.454  &lt; 2e-16 ***\nsleep_hours    2.82049    0.51175   5.511 1.57e-07 ***\nanxiety_score -0.36945    0.06265  -5.897 2.47e-08 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 7.805 on 146 degrees of freedom\nMultiple R-squared:  0.5917,    Adjusted R-squared:  0.5833 \nF-statistic: 70.53 on 3 and 146 DF,  p-value: &lt; 2.2e-16\n\n\nReading the output:\nCoefficients table: - Estimate: regression slope (B) - Std. Error: precision of the estimate - t value: test statistic (H0: B = 0) - Pr(&gt;|t|): p-value; *** &lt;= .001, ** &lt;= .01, * &lt;= .05\nModel fit: - Multiple R-squared: proportion of variance in exam score explained by all predictors combined - Adjusted R-squared: R-squared penalized for number of predictors (preferred for comparisons) - F-statistic: tests whether the overall model is significant\nInterpreting a slope: for every one-unit increase in a predictor, exam score changes by B points holding all other predictors constant."
+  },
+  {
+    "objectID": "psy371/r_basics_psych.html#step-6-scatterplot-bonus",
+    "href": "psy371/r_basics_psych.html#step-6-scatterplot-bonus",
+    "title": "R Basics for Psychological Research",
+    "section": "Step 6: Scatterplot (Bonus)",
+    "text": "Step 6: Scatterplot (Bonus)\n\nplot(df$study_hours, df$exam_score,\n     xlab = \"Study Hours (per day)\",\n     ylab = \"Exam Score\",\n     main = \"Study Hours and Exam Performance\",\n     pch = 19, col = \"steelblue\", cex = 0.7)\nabline(lm(exam_score ~ study_hours, data = df),\n       col = \"firebrick\", lwd = 2)"
+  },
+  {
+    "objectID": "psy371/r_basics_psych.html#function-quick-reference",
+    "href": "psy371/r_basics_psych.html#function-quick-reference",
+    "title": "R Basics for Psychological Research",
+    "section": "Function Quick Reference",
+    "text": "Function Quick Reference\n\nlibrary(psych)\ndf &lt;- read.csv(\"psych_study_data.csv\")\nhead(df)\ndim(df)\nnames(df)\nmean(df$variable)\nsd(df$variable)\ndescribe(df[, -1])\ncor.test(df$x, df$y)\nmodel &lt;- lm(y ~ x1 + x2 + x3, data = df)\nsummary(model)"
+  },
+  {
+    "objectID": "psy371/r_basics_psych.html#references",
+    "href": "psy371/r_basics_psych.html#references",
+    "title": "R Basics for Psychological Research",
+    "section": "References",
+    "text": "References\nCohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Lawrence Erlbaum Associates.\nRevelle, W. (2023). psych: Procedures for psychological, psychometric, and personality research. R package version 2.3.6."
+  }
+]
